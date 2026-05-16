@@ -1,2 +1,4 @@
 # CPython-project-
-# Здесь пока ничего нет, но совсем скоро все появится 
+
+wifi_security_project/ - осонвной проект
+presentation_project.pptx - презентация
