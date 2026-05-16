@@ -7,18 +7,6 @@ This script is the practical part of the AES lab.
 It demonstrates that AES-128 itself cannot be broken, but
 a weak password makes the whole WPA2 system vulnerable.
 
-The student's task:
-  1. Run this script and observe the attack speed
-  2. Measure the effect of password complexity on security
-  3. Answer the lab questions in the report
-
-Lab questions (answer in your report):
-  Q1. Why can't we attack AES directly?
-  Q2. What is the role of PBKDF2 in WPA2 security?
-  Q3. How many days would it take a GPU to brute-force a 12-char password?
-  Q4. What is the difference between WPA2-Personal and WPA2-Enterprise?
-  Q5. Why does the SSID affect security (hint: rainbow tables)?
-
 Usage:
   # Full lab run (generates capture + cracks it):
   python lab/aes_crack.py --auto
