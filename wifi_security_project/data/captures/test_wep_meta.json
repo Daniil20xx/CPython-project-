@@ -1,7 +1,0 @@
-{
-  "protocol": "WEP",
-  "key_length": 40,
-  "num_frames": 100,
-  "key_b64": "aGVsbG8=",
-  "capture_file": "data/captures/test_wep.wep"
-}
